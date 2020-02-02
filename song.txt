@@ -2,3 +2,8 @@ Nice to meet you
 How are you
 What is you name
 I'm fine
+
+pig
+cat
+cow
+horse
